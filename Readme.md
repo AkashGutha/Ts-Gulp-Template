@@ -27,3 +27,4 @@ src/
 ```
 gulp
 ```
+4. Replace _**Readme.md**_ and _**License**_
