@@ -23,7 +23,11 @@ https://github.com/AkashGutha/Ts-Gulp-Template.git
 ```
 src/
 ```
-- Run the _**gulp**_ command from your command line.
+- Run _**npm install**_ command from your command line.
+```
+npm install
+```
+- Run _**gulp**_ command from your command line.
 ```
 gulp
 ```
