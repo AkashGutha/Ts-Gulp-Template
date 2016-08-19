@@ -15,16 +15,16 @@ Want to write start playing around with js apps written in ts. Then this is a go
 
 ## Steps to setup
 
-1. Fork And CLone / Download the repo.
+- Fork And CLone / Download the repo.
 ```
 https://github.com/AkashGutha/Ts-Gulp-Template.git
 ```
-2. Place your typescript files in the _**src**_ folder.
+- Place your typescript files in the _**src**_ folder.
 ```
 src/
 ```
-3. Run the _**gulp**_ command from your command line.
+- Run the _**gulp**_ command from your command line.
 ```
 gulp
 ```
-4. Replace _**Readme.md**_ and _**License**_
+- Replace _**Readme.md**_ and _**License**_
