@@ -1,17 +1,17 @@
 {
-  "name": "brain_fuck_interpreter",
+  "name": "your_lib_or_app",
   "version": "1.0.0",
-  "description": "a brainfuck interpreter written in typescript",
+  "description": "the most awesome description in this world.",
   "main": "src/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "homepage": "www.akashgutha.com",
   "keywords": [
-    "Brainfuck",
+    "awesome",
     "Typescript"
   ],
-  "author": "Akash",
+  "author": "your_name",
   "license": "MIT",
   "devDependencies": {
     "del": "^2.2.2",
@@ -26,8 +26,6 @@
     "gulp-typescript": "^2.13.6",
     "gulp-uglify": "^2.0.0",
     "gulp-util": "^3.0.7",
-    "merge2": "^1.0.2",
-    "tsify": "^1.0.7",
-    "typescript": "^1.8.10"
+    "tsify": "^1.0.7"
   }
 }
