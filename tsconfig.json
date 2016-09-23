@@ -5,7 +5,6 @@
         "allowJs": true,
         "pretty": true,
         "declaration": true,
-        "declarationDir": "build/declarations",
         "noImplicitAny": true,
         "removeComments": true,
         "preserveConstEnums": true,

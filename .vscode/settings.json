@@ -12,5 +12,6 @@
     "eslint.enable": false,
     "jslint.enable": false,
     "jshint.enable": true,
-    "editor.wrappingColumn": 80
+    "editor.wrappingColumn": 80,
+     "typescript.tsdk": "node_modules/typescript/lib"
 }
