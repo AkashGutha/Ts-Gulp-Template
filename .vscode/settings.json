@@ -1,0 +1,16 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "editor.fontSize": 14,
+    "diffEditor.ignoreTrimWhitespace": true,
+    "editor.autoClosingBrackets": true,
+    "terminal.integrated.fontSize": 12,
+    "editor.detectIndentation": true,
+    "editor.useTabStops": false,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "files.autoSave": "off",
+    "eslint.enable": false,
+    "jslint.enable": false,
+    "jshint.enable": true,
+    "editor.wrappingColumn": 80
+}
