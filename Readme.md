@@ -1,6 +1,6 @@
 # Ts-Gulp-template
 
-Want to write start playing around with js apps written in ts. Then this is a good place to start with. Downlaod the template, place your typescript files in src folder and run gulp to see your output in the build folder.
+Want to start playing around with js apps written in ts. Then this is a good place to start with. Downlaod the template, place your typescript files in src folder and run gulp to see your output in the build folder.
 
 ## Supported by template
 
